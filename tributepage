@@ -1,1 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute to Subhash Chandra Bose</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-color: white;
+    }
+
+    header {
+      background-color:rgb(42, 42, 100);
+      padding: 20px;
+      text-align: center;
+      color: #fff;
+    }
+
+    h1 {
+      font-size: 32px;
+      margin: 0;
+    }
+
+    #image {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    #image img {
+      width: 300px;
+      border-radius: 50%;
+    }
+
+    #quote {
+      margin: 20px;
+      text-align: center;
+    }
+
+    #quote p {
+      font-style: italic;
+      color: #666;
+      font-weight: bolder;
+      font-size: 20px;
+    }
+
+    #bio {
+      margin: 20px;
+    }
+    #bio h2
+    {
+        font-size: 40px;
+        font-weight: bolder;
+        color:darkslateblue;
+    }
+    #bio p {
+      text-align: justify;
+      font-weight: bolder;
+      font-size: 20px;
+
+    }
+
+    /* footer {
+      background-color: #333;
+      padding: 20px;
+      text-align: center;
+      color: #fff;
+    } */
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tribute to Subhash Chandra Bose</h1>
+  </header>
+
+  <div id="image">
+    <img src="https://i.pinimg.com/originals/9a/d5/3d/9ad53d61d329393d4d64ca836c647ffd.jpg" alt="Subhash Chandra Bose">
+  </div>
+
+  <div id="quote">
+    <p>"Give me blood and I shall give you freedom!"</p>
+    <p>- Subhash Chandra Bose</p>
+  </div>
+
+  <div id="bio">
+    <h2>Biography</h2>
+    <p>Subhash Chandra Bose was a prominent Indian nationalist and freedom fighter who played a key role in India's struggle for independence against British rule. Born on January 23, 1897, in Cuttack, Odisha, Bose was known for his militant approach and his unwavering determination to liberate India.</p>
+    <p>Bose studied at Cambridge University and qualified for the Indian Civil Services. However, he was deeply moved by the suffering of his countrymen and decided to dedicate his life to the cause of India's freedom. He rose to prominence as a leader in the Indian National Congress and later formed the Forward Bloc, a political organization that aimed to unite all anti-British forces.</p>
+    <p>During World War II, Bose sought international support for India's independence and formed the Indian National Army (INA) in collaboration with the Axis powers. He led the INA's armed struggle against the British, famously urging his troops with the words "Jai Hind!"</p>
+    <p>Unfortunately, Bose's life was cut short when he died in a plane crash on August 18, 1945, under controversial circumstances. However, his legacy as a fearless freedom fighter and his contributions to India's independence remain an inspiration to this day.</p>
+  </div>
+
+  <!-- <footer>
+    <p>Presented by [Your Name]</p>
+  </footer> -->
+</body>
+</html>
 
